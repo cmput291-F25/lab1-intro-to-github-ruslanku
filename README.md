@@ -1,5 +1,5 @@
 # CMPUT 291 - Lab 1 Readme file
-Name: your-name
-CCID: your-ccid
-Lecture: your-lecture
-Lab: your-lab
+Name: Ruslan Kurbanov
+CCID: kurbanov
+Lecture: EA1
+Lab: ED09
